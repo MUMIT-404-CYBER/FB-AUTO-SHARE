@@ -18,5 +18,5 @@ ___This Tools is Free Enjoy Dear User.___</br>
 ## DEMO_SCREENSHOT :
 <br>
 <p align="center">
-<img src="__scr__/set.Demo"/>
+<img src="__scr__/Demo.jpg"/>
 </p>
